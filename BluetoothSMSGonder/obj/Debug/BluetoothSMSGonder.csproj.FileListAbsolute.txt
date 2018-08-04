@@ -1,0 +1,8 @@
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\bin\Debug\BluetoothSMSGonder.exe
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\bin\Debug\BluetoothSMSGonder.pdb
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\BluetoothSMSGonder.Form1.resources
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\BluetoothSMSGonder.Properties.Resources.resources
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\BluetoothSMSGonder.csproj.GenerateResource.Cache
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\BluetoothSMSGonder.exe
+C:\Users\Tuncay\Documents\Visual Studio 2008\Projects\BluetoothSMSGonder\BluetoothSMSGonder\obj\Debug\BluetoothSMSGonder.pdb
